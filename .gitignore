@@ -1,0 +1,19 @@
+# Java
+*.class
+*.jar
+*.war
+*.log
+target/
+build/
+
+# Node.js (프론트엔드)
+node_modules/
+dist/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
