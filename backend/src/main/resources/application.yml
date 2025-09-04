@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: backend
+springdoc:
+  swagger-ui:
+    path: /swagger-ui
+  api-docs:
+    path: /api-docs
+  packages-to-scan: com.devmate.controller
+  paths-to-match: /**
